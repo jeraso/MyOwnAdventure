@@ -1,0 +1,11 @@
+h1{font-family: arial;
+color: #3333cc;border-radius: 25px;
+  background: #447096;
+  padding: 20px; 
+  width: 400px;
+  height: 150px;font-size: 4em;text-align: center;}
+h2{font-family: arial;color: #3333cc;border-radius: 25px;background: #447096;padding: 20px;width: 400px;height: 75px;font-size: 3.25em;text-align: center;}
+h3{font-family: arial;color: #3333cc;border-radius: 25px;background: #447096;padding: 20px;width:400px;height: 25px;font-size: 1.25em;text-align: center;}
+h4{font-family: arial;color: #3333cc;border-radius: 25px;background: #447096;padding: 20px;width:400px;height: 25px;font-size: 1.25em;text-align: center;}
+body{font-family: arial;color: #FFFFFF;background: #00BDE7;}
+li{font-family: arial; font-size: 1.25em;}
