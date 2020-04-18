@@ -1,0 +1,7 @@
+h1{font-family: arial;
+color: #000000;border-radius: 25px;
+  background: #FFFFFF;
+  padding: 20px; 
+  width: 400px;
+  height: 180px;line-height: 180px;font-size: 3.6em;text-align: center;}
+body{font-family: arial;color: #FFFFFF;border-radius: 25px;background: #000000;padding: 20px;width:400px;height: 25px;font-size: 1.25em;text-align: left;}
